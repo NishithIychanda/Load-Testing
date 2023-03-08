@@ -1,0 +1,702 @@
+[INFO] Logger started at 2022-12-16 11:01:10
+[INFO] Executable name: C:\Users\nishith.in_jai-kisan\AppData\Local\Temp\Temp1_studio-3t-x64.zip\studio-3t-x64.exe
+[INFO] install4j version: 9.0.5 (build 9133)
+[INFO] Properties: 
+-- listing properties --
+java.specification.version=17
+sun.cpu.isalist=amd64
+sun.jnu.encoding=Cp1252
+java.class.path=C:\Users\NISHIT~1.IN_\AppData\Local\T...
+sun.awt.enableExtraMouseButtons=true
+java.vm.vendor=Eclipse Adoptium
+sun.arch.data.model=64
+install4j.exeDir=C:\Users\nishith.in_jai-kisan\AppData...
+user.variant=
+java.vendor.url=https://adoptium.net/
+user.timezone=Asia/Calcutta
+java.vm.specification.version=17
+os.name=Windows 11
+user.country=US
+sun.boot.library.path=c:\users\nishit~1.in_\appdata\local\t...
+sun.java.command=C:\Users\nishith.in_jai-kisan\AppData...
+jdk.debug=release
+sun.cpu.endian=little
+exe4j.unextractedPosition=47661970
+user.home=C:\Users\nishith.in_jai-kisan
+user.language=en
+jdk.http.auth.tunneling.disabledSchemes=
+java.specification.vendor=Oracle Corporation
+java.version.date=2022-01-18
+java.home=c:\users\nishit~1.in_\appdata\local\t...
+file.separator=\
+java.vm.compressedOopsMode=Zero based
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+jdk.lang.Process.allowAmbiguousCommands=false
+exe4j.moduleName=C:\Users\nishith.in_jai-kisan\AppData...
+exe4j.tempDir=C:\Users\NISHIT~1.IN_\AppData\Local\T...
+user.script=
+exe4j.consoleCodepage=cp0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+exe4j.isInstall4j=true
+java.runtime.version=17.0.2+8
+user.name=nishith.in_jai-kisan
+path.separator=;
+os.version=10.0
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=Cp1252
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.version=Temurin-17.0.2+8
+exe4j.semaphoreName=Local\c:_users_nishith.in_jai-kisan_a...
+install4j.appDir=C:\Users\nishith.in_jai-kisan\AppData...
+java.vendor.url.bug=https://github.com/adoptium/adoptium-...
+java.io.tmpdir=C:\Users\NISHIT~1.IN_\AppData\Local\T...
+java.version=17.0.2
+user.dir=C:\Users\NISHIT~1.IN_\AppData\Local\T...
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+sun.os.patch.level=
+native.encoding=Cp1252
+java.library.path=c:\users\nishit~1.in_\appdata\local\t...
+java.vm.info=mixed mode
+java.vendor=Eclipse Adoptium
+java.vm.version=17.0.2+8
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=61.0
+exe4j.launchName=C:\Users\nishith.in_jai-kisan\AppData...
+[INFO] Variable changed: sys.resolveUserSpecificInstallationDir=false[class java.lang.String]
+[INFO] could not find own module file C:\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\jre\lib\modules, \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\jre\lib\modules
+[INFO] \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22000.120_none_9d947278b86cc467, \Device\HarddiskVolume3\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22000.120_none_9d947278b86cc467
+[INFO] \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\e4j6A08.tmp_dir1671168664, \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\e4j6A08.tmp_dir1671168664
+[INFO] \Device\CNG, \Device\CNG
+[INFO] \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\jre\lib\modules, \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\jre\lib\modules
+[INFO] \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\hsperfdata_nishith.in_jai-kisan\22928, \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\hsperfdata_nishith.in_jai-kisan\22928
+[INFO] \Device\HarddiskVolume3\Windows\System32\en-US\kernel32.dll.mui, \Device\HarddiskVolume3\Windows\System32\en-US\kernel32.dll.mui
+[INFO] \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\i4jruntime.jar, \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\i4jruntime.jar
+[INFO] \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\user.jar, \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\user.jar
+[INFO] \Device\HarddiskVolume3\Windows\System32\en-US\KernelBase.dll.mui, \Device\HarddiskVolume3\Windows\System32\en-US\KernelBase.dll.mui
+[INFO] \Device\KsecDD, \Device\KsecDD
+       (+1)
+[INFO] \Device\Nsi, \Device\Nsi
+[INFO] \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\i4j_log_studio3t_15860151924382668103.log, \Device\HarddiskVolume3\Users\NISHIT~1.IN_\AppData\Local\Temp\i4j_log_studio3t_15860151924382668103.log
+[INFO] \Device\HarddiskVolume3\Windows\Fonts\segoeuii.ttf, \Device\HarddiskVolume3\Windows\Fonts\segoeuii.ttf
+[INFO] \Device\HarddiskVolume3\Windows\Fonts\segoeuib.ttf, \Device\HarddiskVolume3\Windows\Fonts\segoeuib.ttf
+[INFO] \Device\HarddiskVolume3\Windows\Fonts\segoeui.ttf, \Device\HarddiskVolume3\Windows\Fonts\segoeui.ttf
+[INFO] \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\user\flatlaf.jar, \Device\HarddiskVolume3\Users\nishith.in_jai-kisan\AppData\Local\Temp\e4j6A08.tmp_dir1671168664\user\flatlaf.jar
+[INFO] \Device\HarddiskVolume3\Windows\Fonts\segoeuiz.ttf, \Device\HarddiskVolume3\Windows\Fonts\segoeuiz.ttf
+[INFO] com.install4j.runtime.beans.actions.misc.RequestPrivilegesAction [ID 22]: Execute action
+       Property linuxPrivilegeRequirement: None
+       Property allRequested: false
+       Property failIfNotObtainedLinux: false
+       Property failIfNotObtainedMac: true
+       Property failIfNotObtainedWin: false
+       Property failIfNotRootUnix: false
+       Property obtainIfAdminMac: false
+       Property obtainIfAdminWin: true
+       Property obtainIfNormalMac: false
+       Property obtainIfNormalWin: false
+       Property rollbackSupported: false
+       Property updateInstallationDirectory: true
+       Variable changed: sys.resolveUserSpecificInstallationDir=true[class java.lang.Boolean]
+       Variable changed: sys.installationDir=C:\Users\nishith.in_jai-kisan\AppData\Local\Programs\3T Software Labs\Studio 3T[class java.lang.String]
+       Execute action successful after 8 ms
+[INFO] com.install4j.runtime.beans.screens.StartupScreen [ID 1]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: Show screen
+[INFO] com.install4j.runtime.beans.screens.WelcomeScreen [ID 2]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.FormScreen [ID 2359]: Show screen
+[INFO] com.install4j.runtime.beans.screens.FormScreen [ID 2359]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 8]: Show screen
+       Variable changed: sys.installationDir=C:\Tools\Studio 3T[class java.lang.String]
+       checking writable with maximum
+[INFO] com.install4j.runtime.beans.actions.misc.LoadResponseFileAction [ID 11]: Execute action
+       Property excludedVariables: [sys.installationDir]
+       Property file: null
+       Property overwriteStrategy: Do not overwrite command line
+       Property registerForResponseFile: true
+       Property rollbackSupported: false
+       Response file C:\Tools\Studio 3T\.install4j\response.varfile does not exist
+       Execute action successful after 0 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationDirectoryScreen [ID 8]: command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 15]: Show screen
+[INFO] com.install4j.runtime.beans.actions.UninstallPreviousAction [ID 994]: Execute action
+       Property installationDirectory: null
+       Property installerVariables: {}
+       Property logFiles: []
+       Property onlyIfSameApplicationId: true
+       Property rollbackSupported: false
+       Property uninstallServices: true
+       checking running processes
+       checking running processes ok
+       previous installation id at C:\Tools\Studio 3T: null
+       no previous installation detected, uninstaller was not started
+       finished
+       Execute action successful after 25 ms
+[INFO] com.install4j.runtime.beans.actions.files.DeleteFileAction [ID 2063]: Execute action
+       Property directoryFilter: null
+       Property fileFilter: null
+       Property files: [.]
+       Property filesRoot: null
+       Property backupForRollback: true
+       Property recursive: true
+       Property rollbackSupported: true
+       Property showFileNames: true
+       Property showProgress: false
+       The file "C:\Tools\Studio 3T" does not exist
+       Execute action successful after 0 ms
+[INFO] com.install4j.runtime.beans.actions.InstallFilesAction [ID 17]: Execute action
+       Property directoryResolverScript: null
+       Property fileFilterScript: null
+       Property sizeCalculatorScript: null
+       Property acceptAllCertificates: false
+       Property checkFreeSpace: true
+       Property delay: false
+       Property installRuntime: true
+       Property rollbackSupported: true
+       Property saveDownloadedFiles: false
+       Property showFileNames: true
+       Property triggerReboot: true
+       Property validateApplicationId: false
+       Component Files[432]; Selected: true
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-console-l1-1-0.dll; size: 19208 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:05 IST 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-datetime-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-debug-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-errorhandling-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-file-l1-1-0.dll; size: 22280 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-file-l1-2-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-file-l2-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-handle-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-heap-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-interlocked-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-libraryloader-l1-1-0.dll; size: 19720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-localization-l1-2-0.dll; size: 21256 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-memory-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-namedpipe-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-processenvironment-l1-1-0.dll; size: 19720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-processthreads-l1-1-0.dll; size: 20744 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-processthreads-l1-1-1.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-profile-l1-1-0.dll; size: 18184 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-rtlsupport-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-string-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-synch-l1-1-0.dll; size: 20744 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-synch-l1-2-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-sysinfo-l1-1-0.dll; size: 19720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-timezone-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-core-util-l1-1-0.dll; size: 18696 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-conio-l1-1-0.dll; size: 19720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-convert-l1-1-0.dll; size: 22792 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-environment-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-filesystem-l1-1-0.dll; size: 20744 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-heap-l1-1-0.dll; size: 19720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-locale-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-math-l1-1-0.dll; size: 27912 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-multibyte-l1-1-0.dll; size: 26888 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-private-l1-1-0.dll; size: 71432 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-process-l1-1-0.dll; size: 19720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-runtime-l1-1-0.dll; size: 23304 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-stdio-l1-1-0.dll; size: 24840 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-string-l1-1-0.dll; size: 24840 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-time-l1-1-0.dll; size: 21256 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\api-ms-win-crt-utility-l1-1-0.dll; size: 19208 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\attach.dll; size: 18432 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\awt.dll; size: 1469952 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\dt_socket.dll; size: 25600 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\fontmanager.dll; size: 665600 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\freetype.dll; size: 542720 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\instrument.dll; size: 40448 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\j2gss.dll; size: 40448 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\j2pcsc.dll; size: 15360 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\j2pkcs11.dll; size: 68096 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jaas.dll; size: 17920 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jabswitch.exe; size: 34816 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jaccessinspector.exe; size: 95744 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jaccesswalker.exe; size: 60416 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\java.dll; size: 135680 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\java.exe; size: 39424 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\javaaccessbridge.dll; size: 276992 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\javajpeg.dll; size: 168448 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\javaw.exe; size: 39424 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jawt.dll; size: 10752 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jdwp.dll; size: 220160 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jfr.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jimage.dll; size: 23040 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jli.dll; size: 77312 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:06 IST 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\jre\bin\jrunscript.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\jsound.dll; size: 50176 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\keytool.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\kinit.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\klist.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\ktab.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\lcms.dll; size: 244224 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\le.dll; size: 25088 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\management.dll; size: 18432 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\management_agent.dll; size: 13824 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\management_ext.dll; size: 25088 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\mlib_image.dll; size: 499200 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\msvcp140.dll; size: 590632 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\net.dll; size: 86528 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\nio.dll; size: 69120 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\prefs.dll; size: 14848 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\rmi.dll; size: 10240 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\rmiregistry.exe; size: 13312 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\server\jvm.dll; size: 12527104 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:07 IST 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\jre\bin\splashscreen.dll; size: 207360 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\sspi_bridge.dll; size: 34304 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\sunmscapi.dll; size: 36864 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\ucrtbase.dll; size: 1016584 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\vcruntime140.dll; size: 101672 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\vcruntime140_1.dll; size: 44328 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\verify.dll; size: 43520 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\w2k_lsa_auth.dll; size: 20992 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\windowsaccessbridge-64.dll; size: 61952 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\bin\zip.dll; size: 75776 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\logging.properties; size: 2732 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\management\jmxremote.access; size: 3997 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\management\jmxremote.password.template; size: 5690 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\management\management.properties; size: 14410 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\net.properties; size: 6671 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\java.policy; size: 2180 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\java.security; size: 58324 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\policy\limited\default_local.policy; size: 647 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\policy\limited\default_US_export.policy; size: 146 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\policy\limited\exempt_local.policy; size: 566 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\policy\README.txt; size: 2390 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\policy\unlimited\default_local.policy; size: 193 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\security\policy\unlimited\default_US_export.policy; size: 146 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\conf\sound.properties; size: 1210 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\classfile_constants.h; size: 22155 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\jawt.h; size: 12458 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\jdwpTransport.h; size: 8151 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\jni.h; size: 75678 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\jvmti.h; size: 84350 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\jvmticmlr.h; size: 4771 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\win32\bridge\AccessBridgeCallbacks.h; size: 5518 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\win32\bridge\AccessBridgeCalls.h; size: 36093 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\win32\bridge\AccessBridgePackages.h; size: 77582 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\win32\jawt_md.h; size: 1895 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\include\win32\jni_md.h; size: 1580 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\ADDITIONAL_LICENSE_INFO; size: 2114 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\aes.md; size: 1444 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\asm.md; size: 1584 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\ASSEMBLY_EXCEPTION; size: 1522 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\c-libutl.md; size: 1556 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\cldr.md; size: 9130 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\icu.md; size: 11086 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\LICENSE; size: 19274 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\public_suffix.md; size: 17785 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\unicode.md; size: 2384 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\wepoll.md; size: 1454 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.base\zlib.md; size: 1011 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.compiler\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.compiler\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.compiler\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.datatransfer\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.datatransfer\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.datatransfer\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\colorimaging.md; size: 167 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\freetype.md; size: 28780 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\giflib.md; size: 1288 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\harfbuzz.md; size: 2884 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\jpeg.md; size: 3475 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\lcms.md; size: 1178 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\libpng.md; size: 5398 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.desktop\mesa3d.md; size: 5732 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.instrument\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.instrument\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.instrument\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.logging\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.logging\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.logging\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.management\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.management\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.management\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.management.rmi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.management.rmi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.management.rmi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.naming\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.naming\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.naming\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.net.http\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.net.http\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.net.http\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.prefs\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.prefs\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.prefs\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.rmi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.rmi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.rmi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.scripting\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.scripting\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.scripting\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.se\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.se\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.se\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.security.jgss\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.security.jgss\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.security.jgss\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.security.sasl\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.security.sasl\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.security.sasl\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.smartcardio\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.smartcardio\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.smartcardio\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.sql\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.sql\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.sql\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.sql.rowset\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.sql.rowset\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.sql.rowset\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.transaction.xa\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.transaction.xa\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.transaction.xa\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\bcel.md; size: 11503 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\dom.md; size: 3028 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\jcup.md; size: 1158 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\xalan.md; size: 13494 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml\xerces.md; size: 11852 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml.crypto\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml.crypto\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml.crypto\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\java.xml.crypto\santuario.md; size: 11436 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.accessibility\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.accessibility\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.accessibility\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.attach\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.attach\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.attach\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.charsets\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.charsets\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.charsets\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.cryptoki\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.cryptoki\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.cryptoki\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.cryptoki\pkcs11cryptotoken.md; size: 3923 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.cryptoki\pkcs11wrapper.md; size: 2131 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.ec\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.ec\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.ec\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.mscapi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.mscapi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.crypto.mscapi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.dynalink\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.dynalink\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.dynalink\dynalink.md; size: 1502 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.dynalink\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.httpserver\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.httpserver\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.httpserver\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.ed\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.ed\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.ed\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.jvmstat\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.jvmstat\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.jvmstat\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.le\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.le\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.le\jline.md; size: 1579 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.le\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.ci\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.ci\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.ci\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.compiler\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.compiler\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.compiler\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.compiler.management\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.compiler.management\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.internal.vm.compiler.management\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jdwp.agent\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jdwp.agent\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jdwp.agent\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jfr\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jfr\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jfr\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jsobject\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jsobject\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.jsobject\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.localedata\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.localedata\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.localedata\cldr.md; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.localedata\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.localedata\thaidict.md; size: 1346 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management.agent\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management.agent\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management.agent\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management.jfr\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management.jfr\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.management.jfr\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.naming.dns\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.naming.dns\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.naming.dns\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.naming.rmi\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.naming.rmi\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.naming.rmi\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.net\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.net\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.net\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.sctp\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.sctp\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.sctp\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.security.auth\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.security.auth\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.security.auth\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.security.jgss\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.security.jgss\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.security.jgss\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.unsupported\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.unsupported\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.unsupported\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.unsupported.desktop\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.unsupported.desktop\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.unsupported.desktop\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.xml.dom\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.xml.dom\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.xml.dom\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.zipfs\ADDITIONAL_LICENSE_INFO; size: 49 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.zipfs\ASSEMBLY_EXCEPTION; size: 44 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\legal\jdk.zipfs\LICENSE; size: 33 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\classlist; size: 72978 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\fontconfig.bfc; size: 4630 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\fontconfig.properties.src; size: 12345 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\jawt.lib; size: 1682 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\jfr\default.jfc; size: 35581 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\jfr\profile.jfc; size: 35541 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\jrt-fs.jar; size: 110515 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\jvm.cfg; size: 29 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\jvm.lib; size: 1038022 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\modules; size: 99340260 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:08 IST 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\jre\lib\psfont.properties.ja; size: 3793 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:09 IST 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\jre\lib\psfontj2d.properties; size: 11390 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\security\blocked.certs; size: 2527 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\security\cacerts; size: 158913 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\security\default.policy; size: 10735 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\security\public_suffix_list.dat; size: 234478 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\tzdb.dat; size: 106905 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\lib\tzmappings; size: 22143 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jre\release; size: 854 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\bgupdater.exe; size: 757256 bytes; exists: false
+       File options set to: [fileTime: Tue Dec 06 03:23:06 IST 2022, mode: 755, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\.install4j\i4jdel.exe; size: 93448 bytes; exists: false
+       File options set to: [fileTime: Tue Dec 06 03:23:06 IST 2022, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\.install4j\i4jinst.dll; size: 214280 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\uninstall.exe; size: 413704 bytes; exists: false
+       File options set to: [fileTime: Tue Dec 06 03:23:06 IST 2022, mode: 700, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\Studio 3T.exe; size: 423432 bytes; exists: false
+       File options set to: [fileTime: Tue Dec 06 03:23:06 IST 2022, mode: 755, overwriteMode: If newer otherwise ask, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\Studio 3T.vmoptions; size: 673 bytes; exists: false
+       File options set to: [fileTime: Tue Dec 06 03:23:06 IST 2022, mode: 644, overwriteMode: Never, shared: false, uninstallMode: If created, but not for update, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\antlr4-runtime-4.9.2.jar; size: 337866 bytes; exists: false
+       File options set to: [fileTime: Tue Dec 06 03:23:06 IST 2022, mode: 644, overwriteMode: Always ask except for update, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\asn-one-0.5.0.jar; size: 68389 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\bcpkix-jdk15on-1.68.jar; size: 887800 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\bcprov-jdk15on-1.68.jar; size: 5961178 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\bson-4.6.0_3t.2022.04.29.1231.jar; size: 486526 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\bson-record-codec-4.6.0_3t.2022.04.29.1231.jar; size: 9864 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\checker-qual-3.5.0.jar; size: 214381 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\com.ibm.icu-67.1.0.v20200706-1749_3T20220615-173000.jar; size: 13569732 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-beanutils-1.9.4.jar; size: 246918 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-codec-1.11.jar; size: 335042 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-collections-3.2.2.jar; size: 588337 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-csv-1.2.jar; size: 38795 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-digester-2.1.jar; size: 196768 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-io-2.11.0.jar; size: 327135 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-lang3-3.12.0.jar; size: 587402 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-logging-1.2.jar; size: 61829 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-math3-3.6.1.jar; size: 2213560 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-net-3.6.jar; size: 307410 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-text-1.10.0.jar; size: 238400 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\commons-validator-1.7.jar; size: 189675 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\data-man-mongodb-ent-2022.10.0.jar; size: 30429344 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\diffutils-1.3.0.jar; size: 34130 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\driver-core-4.6.0_3t.2022.04.29.1231.jar; size: 1599652 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\driver-legacy-4.6.0_3t.2022.04.29.1231.jar; size: 144771 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\driver-sync-4.6.0_3t.2022.04.29.1231.jar; size: 145334 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\eddsa-0.3.0.jar; size: 63292 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\error_prone_annotations-2.3.4.jar; size: 13879 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\failureaccess-1.0.1.jar; size: 4617 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\fluent-hc-4.5.12.jar; size: 31548 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\google-http-client-1.36.0.jar; size: 286674 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\graal-sdk-21.3.0.jar; size: 616165 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\grpc-context-1.22.1.jar; size: 29411 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\gson-2.7.jar; size: 231952 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\guava-30.1-jre.jar; size: 2862361 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\httpclient-4.5.12.jar; size: 778156 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\httpcore-4.4.13.jar; size: 328593 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\icu4j-69.1.jar; size: 13356812 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\install4j-runtime-9.0.5.jar; size: 3070604 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\ipaddress-5.3.3.jar; size: 869040 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\j2objc-annotations-1.3.jar; size: 8781 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jakarta.activation-api-1.2.2.jar; size: 46613 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jakarta.servlet-api-4.0.0_3T20220615-173000.jar; size: 82973 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jakarta.xml.bind-api-2.3.3.jar; size: 115638 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-base-17.0.2-win.jar; size: 746034 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-base-17.0.2.jar; size: 302 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-controls-17.0.2-win.jar; size: 2545470 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-controls-17.0.2.jar; size: 306 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-graphics-17.0.2-win.jar; size: 5768743 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-graphics-17.0.2.jar; size: 306 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-swing-17.0.2-win.jar; size: 88803 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javafx-swing-17.0.2.jar; size: 303 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javassist-3.28.0-GA.jar; size: 851531 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\javax.servlet-api-3.1.0.jar; size: 95806 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jetty-http-9.4.26.v20200117.jar; size: 211033 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jetty-io-9.4.26.v20200117.jar; size: 159868 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jetty-security-9.4.26.v20200117.jar; size: 117789 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jetty-server-9.4.26.v20200117.jar; size: 676564 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jetty-servlet-9.4.26.v20200117.jar; size: 131517 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jetty-util-9.4.26.v20200117.jar; size: 551101 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jna-5.11.0.jar; size: 1825174 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jna-platform-5.11.0.jar; size: 1352301 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\js-21.3.0.jar; size: 18942681 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jsr305-3.0.2.jar; size: 19936 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\jzlib-1.1.3.jar; size: 71976 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar; size: 2199 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\mariadb-java-client-2.5.2.jar; size: 618816 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\mssql-jdbc-10.2.0.jre11.jar; size: 1406148 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\mxparser-1.2.2.jar; size: 29680 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\opencensus-api-0.24.0.jar; size: 351668 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\opencensus-contrib-http-util-0.24.0.jar; size: 23420 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.core.commands-3.10.200.v20220512-0851_3T20220615-173000.jar; size: 117314 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.core.contenttype-3.8.100.v20210910-0640_3T20220615-173000.jar; size: 102416 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.core.jobs-3.13.0.v20220512-1935_3T20220615-173000.jar; size: 111869 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.core.runtime-3.25.0.v20220506-1157_3T20220615-173000.jar; size: 73597 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.equinox.app-1.6.100.v20211021-1418_3T20220615-173000.jar; size: 91280 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.equinox.bidi-1.4.100.v20211021-1418_3T20220615-173000.jar; size: 51956 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.equinox.common-3.16.100.v20220315-2327_3T20220615-173000.jar; size: 148024 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.equinox.preferences-3.10.0.v20220503-1634_3T20220615-173000.jar; size: 137202 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.equinox.registry-3.11.100.v20211021-1418_3T20220615-173000.jar; size: 199070 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.jface-3.26.0.v20220513-0449_3T20220615-173000.jar; size: 1165749 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.jface.text-3.20.100.v20220516-0819_3T20220615-173000.jar; size: 1084341 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.osgi-3.18.0.v20220516-2155_3T20220615-173000.jar; size: 1534160 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.osgi.services-3.10.200.v20210723-0643_3T20220615-173000.jar; size: 129436 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.swt.win32.win32.x86_64-3.120.0.v20220530-1036_3T20220615-173000.jar; size: 2591204 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.eclipse.text-3.12.100.v20220506-1404_3T20220615-173000.jar; size: 300596 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.osgi.service.prefs-1.1.2.202109301733_3T20220615-173000.jar; size: 20165 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.osgi.util.function-1.2.0.202109301733_3T20220615-173000.jar; size: 23641 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\org.osgi.util.promise-1.2.0.202109301733_3T20220615-173000.jar; size: 83400 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\postgresql-42.4.1.jar; size: 1045138 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\reflections-0.10.2.jar; size: 130398 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\regex-21.3.0.jar; size: 2782244 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\slf4j-api-1.7.30.jar; size: 41472 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\slf4j-nop-1.7.30.jar; size: 4020 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\sshj-0.31.0.jar; size: 531006 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\t3-bundled-tools-2.jar; size: 67655045 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\t3-common-lic2-2.4.jar; size: 34004 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\third-party-components.txt; size: 120780 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\tika-core-2.3.0.jar; size: 661708 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\tinylog-1.3.6.jar; size: 107280 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\truffle-api-21.3.0.jar; size: 9171200 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\txtmark-0.16.jar; size: 85056 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\xmlpull-1.1.3.1.jar; size: 7188 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\xstream-1.4.18.jar; size: 629707 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\inst_jre.cfg; size: 72 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:43 IST 2022, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\.install4j\pref_jre.cfg; size: 24 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:43 IST 2022, mode: 644, overwriteMode: Always, shared: false, uninstallMode: If created, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\.install4j\i4jruntime.jar; size: 2679226 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:43 IST 2022, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Install file: C:\Tools\Studio 3T\.install4j\MessagesDefault; size: 34805 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4jparams.conf; size: 95943 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\stats.properties; size: 1074 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\user.jar; size: 22081 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\user\flatlaf.jar; size: 575267 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\user\uninstall-previous.ps1; size: 842 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_0_kzs8aq.utf8; size: 34805 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_10_kzs8aq_1xth8wx.png; size: 4609 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_11_kzs8aq_259ij1.png; size: 8252 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_12_kzs8aq_8hsri6.png; size: 3553 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_12_kzs8aq_8hsri6@2x.png; size: 7504 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_13_kzs8aq_1czh6f7.png; size: 1029 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_13_kzs8aq_1czh6f7@2x.png; size: 1963 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_1_kzs8aq_703o14.png; size: 1038 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_2_kzs8aq_703o14.png; size: 1038 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_3_kzs8aq_215446.png; size: 550 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_4_kzs8aq_1a3o56s.png; size: 1029 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_5_kzs8aq_180kawj.png; size: 1461 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_6_kzs8aq_1ytw8nz.png; size: 3896 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_7_kzs8aq_x7nby6.png; size: 756 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_8_kzs8aq_vd2dea.png; size: 1187 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\i4j_extf_9_kzs8aq_un9apv.png; size: 1884 bytes; exists: false
+       Install file: C:\Tools\Studio 3T\.install4j\installer.ico; size: 113438 bytes; exists: false
+       Execute action successful after 4750 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateProgramGroupAction [ID 18]: Execute action
+       Property categories: Application
+       Property linkDirectory: 
+       Property programGroupEntryConfigs: []
+       Property programGroupName: 
+       Property uninstallerMenuName: Studio 3T Uninstaller
+       Property addDefaultLauncherLinks: true
+       Property addUninstaller: false
+       Property allUsers: true
+       Property failForSymlinksNotCreated: false
+       Property rollbackSupported: true
+       Property unixMenuEntries: true
+       Property unixSymlinks: true
+       Variable changed: sys.programGroupName=Studio 3T[class java.lang.String]
+       Variable changed: sys.symlinkDir=/usr/local/bin[class java.lang.String]
+       Install file: C:\Users\nishith.in_jai-kisan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Studio 3T\Studio 3T.lnk; size: 1638 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:43 IST 2022, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Execute action successful after 134 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.RegisterAddRemoveAction [ID 19]: Execute action
+       Property icon: null
+       Property iconSource: Installer icon
+       Property itemName: Studio 3T
+       Property persistentProperties: {}
+       Property rollbackSupported: true
+       Execute action successful after 34 ms
+[INFO] com.install4j.runtime.beans.screens.InstallationScreen [ID 15]: Rollback barrier reached
+       command: move 1 screens, executing actions, checking condition
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 20]: Show screen
+       Variable changed: executeLauncherAction=true[class java.lang.Boolean]
+       Variable changed: createDesktopLinkAction=true[class java.lang.Boolean]
+[INFO] com.install4j.runtime.beans.actions.misc.CreateResponseFileAction [ID 256]: Execute action
+       Property excludedVariables: null
+       Property file: C:\Tools\Studio 3T\response
+       Property includedVariables: null
+       Property variableSelectionMode: All except specified response file variables
+       Property rollbackSupported: true
+       Execute action successful after 13 ms
+[INFO] com.install4j.runtime.beans.actions.desktop.CreateDesktopLinkAction [ID 278]: Execute action
+       Property additionalDesktopFileEntries: 
+       Property arguments: 
+       Property description: 
+       Property file: Studio 3T.exe
+       Property name: Studio 3T
+       Property startIn: null
+       Property unixIconFile: i4j_extf_2_kzs8aq_703o14.png
+       Property winIconFile: null
+       Property allUsers: true
+       Property macSingleBundleTarget: true
+       Property rollbackSupported: true
+       Property runAsAdministrator: false
+       Install file: C:\Users\nishith.in_jai-kisan\Desktop\Studio 3T.lnk; size: 1638 bytes; exists: false
+       File options set to: [fileTime: Fri Dec 16 11:01:45 IST 2022, mode: 644, overwriteMode: Always, shared: false, uninstallMode: Always, delayIfNecessary: false]
+       Execute action successful after 63 ms
+[INFO] com.install4j.runtime.beans.actions.finish.ExecuteLauncherAction [ID 254]: Execute action
+       Property arguments: null
+       Property launcherId: 59
+       Property rollbackSupported: false
+       execute directly
+       Execute action successful after 568 ms
+[INFO] com.install4j.runtime.beans.actions.finish.ExecuteLauncherAction [ID 2226]: Execute action
+       Property arguments: null
+       Property launcherId: 2217
+       Property rollbackSupported: false
+[ERROR] com.install4j.runtime.beans.actions.finish.ExecuteLauncherAction [ID 2226]: Execute action not successful after 0 ms
+[INFO] com.install4j.runtime.beans.screens.FinishedScreen [ID 20]: command: finish
+       cleaning up
+       Finished at 2022-12-16 11:01:46

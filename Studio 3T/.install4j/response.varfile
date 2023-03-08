@@ -1,0 +1,7 @@
+# install4j response file for Studio 3T 2022.10.0
+createDesktopLinkAction$Boolean=true
+executeLauncherAction$Boolean=true
+sys.adminRights$Boolean=false
+sys.component.432$Boolean=true
+sys.installationDir=C\:\\Tools\\Studio 3T
+sys.languageId=en
